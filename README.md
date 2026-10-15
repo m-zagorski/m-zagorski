@@ -2,8 +2,8 @@
 val androidDeveloper = developer {
     about {
         name = "Mateusz Zagórski"
-        role = "Senior Android Developer"
-        company = "Appunite"
+        role = "Mobile Engineer"
+        stack = "Android, React Native, KMP"
     }
 }
 ```
